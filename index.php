@@ -6,8 +6,8 @@ if (isset($_GET['type'])) {
 }
 
 //此处配置你的信息
-$corpid = "";
-$secret = "";
+$corpid = "ww16b1a2963d3148ea";
+$secret = "GVRSqmlyRSQ4tb-BdfBDou_Mg7msXBUts3XnBZWu6WU";
 $agentid = 1000002;
 
 //获取access_token
